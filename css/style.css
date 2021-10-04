@@ -1,1 +1,8 @@
 header{background-color:black;}
+main{background-color: cornsilk;}
+.black{background-color: black;}
+.red{background-color: red;}
+.orange{background-color: orange;}
+.header_wrape{display: flex; flex-wrap: wrap; align-items: flwx-end; justify-content: space-between;}
+.header_nav{display: flex; flex-wrap: wrap;}
+.header_logo{flex-basis: 20%;}
